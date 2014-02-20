@@ -1,5 +1,5 @@
 {
-  "name": "ease-component",
+  "name": "component-ease",
   "description": "Easing functions (for canvas etc)",
   "version": "1.0.0",
   "keywords": [
@@ -8,14 +8,5 @@
     "tween"
   ],
   "dependencies": {},
-  "component": {
-    "scripts": {
-      "ease/index.js": "index.js"
-    }
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/ease.git"
-  }
+  "license": "MIT"
 }
